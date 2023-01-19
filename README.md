@@ -25,5 +25,5 @@ This project is licensed under [MIT license](https://opensource.org/licenses/MIT
 ## Update
 
 ```bash
-git -C ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/npm-aliases.plugin pull
+git -C ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/npm-aliases pull
 ```
