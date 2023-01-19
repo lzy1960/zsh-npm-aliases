@@ -18,6 +18,18 @@ plugins=([...plugins] npm-aliases)
 
 3. Start a new terminal session.
 
+## Usage
+
+```bash
+ni    # npm install
+nst   # npm run start
+pi    # pnpm install
+pd    # pnpm run dev
+...
+```
+
+Detailed aliases can refer to the [source code](https://github.com/lzy1960/zsh-npm-aliases/blob/main/npm-aliases.plugin.zsh)
+
 ## License
 
 This project is licensed under [MIT license](https://opensource.org/licenses/MIT). For the full text of the license, see the [LICENSE](https://github.com/lzy1960/zsh-npm-aliases/blob/main/LICENSE) file.
