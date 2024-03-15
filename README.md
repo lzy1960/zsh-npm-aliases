@@ -1,16 +1,18 @@
 # zsh-npm-aliases
 
-Aliases for npm, yarn and pnpm in zsh
+![GitHub License](https://img.shields.io/github/license/lzy1960/zsh-npm-aliases?style=for-the-badge)
+
+Aliases for `npm`, `yarn` and `pnpm` in zsh
 
 ## Installation
 
-1. Clone this repository into $ZSH_CUSTOM/plugins (by default ~/.oh-my-zsh/custom/plugins)
+1. Clone this repository into `$ZSH_CUSTOM/plugins` (by default `~/.oh-my-zsh/custom/plugins`)
 
 ```bash
 git clone https://github.com/lzy1960/zsh-npm-aliases ${ZSH_CUSTOM:-~/.oh-my-zsh/custom}/plugins/npm-aliases
 ```
 
-2. Add the plugin to the list of plugins for Oh My Zsh to load (inside ~/.zshrc):
+2. Add the plugin to the list of plugins for Oh My Zsh to load (inside `~/.zshrc`):
 
 ```vim
 plugins=([...plugins] npm-aliases)
