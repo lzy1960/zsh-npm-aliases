@@ -15,7 +15,7 @@ alias nl='nr lint'
 alias nig='ni -g'
 alias nid='ni -D'
 alias nigd='ni -gD'
-alias nu='npm update'
+alias nup='npm update'
 alias nug='nu -g'
 alias ncl!='rm -rf ./node_modules'
 
